@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to SLM 2 Hour Course Resources Page
 
 You can use the [editor on GitHub](https://github.com/SLMUpload/SLM-2-Hour-Course-Resources/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
