@@ -1,3 +1,3 @@
 
-# Moulde One Resources
+# Module One Resources
 [Scorecard](PTRBEN002_SLM-scorecard.pdf)
