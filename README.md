@@ -2,7 +2,7 @@
 
 [Module 1](Module1/readme.md)
 
-[Module 3](Module3/readme.md)
+[Module 3](module3/readme.md)
 
 
 
